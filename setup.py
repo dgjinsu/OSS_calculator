@@ -8,6 +8,7 @@ setuptools.setup (
 	author='dgjinsu',
 	author_email='1923915@donga.ac.kr',
 	url="https://github.com/dgjinsu/OSS_calculator.git",
+	download_url=https:'//github.com/dgjinsu/OSS_calculator/archive/refs/tags/1.0.0.zip',
 	install_requires = ['pytest'],
 	long_description='oss-dev calculator python module',
 	long_description_content_type = 'text/markdown',
